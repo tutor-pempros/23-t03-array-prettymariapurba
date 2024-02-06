@@ -21,6 +21,7 @@ int main(int _argc, char **_argv)
     // Output
     printf("%d\n", min);
     printf("%d\n", max);
+    
     return 0;
 }
 
